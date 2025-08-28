@@ -7,3 +7,5 @@ opentrons_base/
 # Ignora arquivos de cache e metadados
 __pycache__/
 .DS_Store
+# Ignora a pasta teste
+protocolo_normalizacao/kai_testes/
