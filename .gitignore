@@ -1,0 +1,9 @@
+# Ignora a pasta do ambiente virtual
+normalizacao/
+
+# Ignora a pasta do código base do Opentrons
+opentrons_base/
+
+# Ignora arquivos de cache e metadados
+__pycache__/
+.DS_Store
