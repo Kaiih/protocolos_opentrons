@@ -11,4 +11,4 @@ __pycache__/
 protocolo_normalizacao/kai_testes/
 
 # Ignora csv com dados
-protocolo_normalizacao/sheet/QubitData_30-06-2025_17-29-34.csv
+#protocolo_normalizacao/sheet/QubitData_30-06-2025_17-29-34.csv
